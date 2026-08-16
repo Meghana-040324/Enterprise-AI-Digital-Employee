@@ -1,0 +1,22 @@
+# Environment variables
+backend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Uploaded documents
+backend/uploads/*
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
