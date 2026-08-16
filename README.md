@@ -69,6 +69,7 @@ Conversation Memory	PASS
 AI Persona Context	PASS
 Document Upload + RAG	PASS
 ServiceNow Incident Creation	PASS
+
 Technology Stack
 Backend
 Python
@@ -88,7 +89,8 @@ ServiceNow REST APIs
 ServiceNow Service Portal
 ServiceNow Tables
 ServiceNow Dashboard
-Project Structure
+
+PROJECT STRUCTURE
 Enterprise-AI-Digital-Employee/
 |
 +-- backend/
@@ -158,7 +160,7 @@ API keys and ServiceNow credentials are stored in environment variables and excl
 
 Never commit API keys, passwords, or other secrets to GitHub.
 
-Use Cases
+USE CASES
 IT support automation
 Employee self-service
 Enterprise knowledge search
@@ -167,7 +169,8 @@ Incident management
 HR assistance
 Enterprise workflow automation
 AI-powered service desk
-Future Enhancements
+
+FUTURE ENHANCEMENTS
 Advanced enterprise knowledge bases
 Additional enterprise system integrations
 Role-based AI access control
